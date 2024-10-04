@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9c9e735e514238f4a9f7d4b30eab662d
+  m_SerializeEntries:
+  - m_GUID: 5e6b5a54f8b48e64bb34ef8db5f26e26
+    m_Address: Assets/Project/ScriptableObject/LocationData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb2db8cb4d1ade745a0f7f99a2b1c7e4
+    m_Address: Assets/Project/ScriptableObject/LocationData 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d8631ac20b04ed4cad7fd4596632880
+    m_Address: Assets/Project/ScriptableObject/LocationData 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed0681f10dcf188429a957aab6eb6c8a
+    m_Address: Assets/Project/ScriptableObject/CharacterData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f227964a94f248a40a68efbbac8ae1b6
+    m_Address: Assets/Project/ScriptableObject/CharacterData 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 112aefac2a75c0a408ad855b477a4b74
+    m_Address: Assets/Project/ScriptableObject/CharacterData 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90c3fe1dc774d0e49960eb8ecbe2c9c2
+    m_Address: SelectionCharacterPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07d80979d4c459141857d0fe1ee08cd2
+    m_Address: SelectionLocationPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7db88db01a35753409ec124e94a25e68, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 590878d7a3d24ca489efe35071a36150, type: 2}
+    - {fileID: 11400000, guid: 3eafca76afa735d419407e990dc2625f, type: 2}
