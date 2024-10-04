@@ -1,0 +1,10 @@
+{
+  "name": "com.solo.templateoftheselectionmechanism",
+  "version": "1.0.0",
+  "displayName": "My Custom Package",
+  "description": "This is my custom Unity package.",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.addressables": "1.19.19"
+  }
+}
