@@ -1,7 +1,7 @@
 namespace SelectionTemplate.Example
 {
-    public interface IStateMachine
+    public interface IStateMachine<TypeState>
     {
-        public void ChangeState(Panel newPanel);
+        public void ChangeState(TypeState newPanel);
     }
 }

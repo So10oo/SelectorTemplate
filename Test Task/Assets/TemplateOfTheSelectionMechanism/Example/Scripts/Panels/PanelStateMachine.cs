@@ -5,7 +5,7 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 
 namespace SelectionTemplate.Example
 {
-    public class PanelStateMachine : MonoBehaviour, IStateMachine
+    public class PanelStateMachine : MonoBehaviour, IPanelStateMachine
     {
         public Container container;
 
